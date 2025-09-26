@@ -7,7 +7,7 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "-pendantic-errors",
+                "-pedantic-errors",
                 "-Wall",
                 "-Weffc++",
                 "-Wextra",
